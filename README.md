@@ -40,7 +40,7 @@
 
 <p>
     <img align="left"  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldocc&" alt="reynaldocc" />
-    <img align="right"  width="43%" src="https://github-readme-stats.vercel.app/api?username=reynaldocc&show_icons=true&locale=en" alt="reynaldocc" />
+    <img align="right"  width="46%" src="https://github-readme-stats.vercel.app/api?username=reynaldocc&show_icons=true&locale=en" alt="reynaldocc" />
 </p>
 
 <br>
