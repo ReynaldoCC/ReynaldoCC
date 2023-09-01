@@ -38,13 +38,13 @@
 
 <h3 align="left">Stats:</h3>
 
-<p>
+<p align="left">
     <img align="left"  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldocc&" alt="reynaldocc" />
     <img align="right"  width="46%" src="https://github-readme-stats.vercel.app/api?username=reynaldocc&show_icons=true&locale=en" alt="reynaldocc" />
 </p>
 
 <br>
 <br>
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldocc&show_icons=true&locale=en&layout=compact" alt="reynaldocc" />
 </p>
