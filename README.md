@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reynaldo Cuenca Campos</h1>
 <h3 align="center">A passionate Python developer from Cuba</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reynaldocc&label=Profile%20views&color=0e75b6&style=flat" alt="reynaldocc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reynaldocc" alt="reynaldocc" /></a> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **reynaldo86.onwork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r6h4h5VM4Xck4kkMubftQbX5oohaLX5N/view?usp=sharing](https://drive.google.com/file/d/1r6h4h5VM4Xck4kkMubftQbX5oohaLX5N/view?usp=sharing)
+- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1r6h4h5VM4Xck4kkMubftQbX5oohaLX5N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
