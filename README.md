@@ -39,10 +39,11 @@
 <h3 align="left">Stats:</h3>
 
 <p>
-    <img align="left"  width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldocc&" alt="reynaldocc" />
+    <img align="left"  width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldocc&" alt="reynaldocc" />
     <img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=reynaldocc&show_icons=true&locale=en" alt="reynaldocc" />
 </p>
 
+<br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldocc&show_icons=true&locale=en&layout=compact" alt="reynaldocc" />
 </p>
