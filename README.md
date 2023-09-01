@@ -44,7 +44,7 @@
 </p>
 
 <br>
-- - -
+---
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldocc&show_icons=true&locale=en&layout=compact" alt="reynaldocc" />
 </p>
