@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reynaldocc" alt="reynaldocc" /></a> </p>
 
 
-- 🔭 I’m currently working on [AmbyW projects](https://github.com/AmbyW)
+- 🔭 I’m currently working on [Kaiko Systems](https://www.kaikosystems.com/)
 
 - 🌱 I’m currently learning **Blockchain, Solidity**
 
-- 👨‍💻 All of my projects are available at [https://reynaldoportfolio.github.io](https://reynaldoportfolio.github.io)
+- 👨‍💻 My portfolio is ready for you here [https://reynaldocc.github.io](https://reynaldocc.github.io)
 
 - 💬 Ask me about **Python, Django, SQL**
 
